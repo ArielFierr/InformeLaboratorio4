@@ -28,7 +28,7 @@ Voltaje 1 = 0
 Voltaje 2 = 0
 ![WhatsApp Image 2023-01-02 at 8 25 19 PM](https://user-images.githubusercontent.com/116833736/210408728-c5bf49cb-3655-4660-873e-9fd34090f0f6.jpeg)
 
-MEDICION EN FISICO DE CORRIENTESY VOLTAJES
+MEDICION EN FISICO DE CORRIENTES Y VOLTAJES
 ![WhatsApp Image 2023-01-02 at 7 52 04 PM](https://user-images.githubusercontent.com/116833736/210409237-dee748fd-9722-4f39-83a1-990b4676a1d5.jpeg)
 ![WhatsApp Image 2023-01-02 at 8 10 52 PM](https://user-images.githubusercontent.com/116833736/210409283-764dc807-04c2-4218-a0f6-e2a5d33d12e2.jpeg)
 ![WhatsApp Image 2023-01-02 at 8 15 44 PM](https://user-images.githubusercontent.com/116833736/210409297-7f336bc7-f330-44c0-946c-adda645bccaa.jpeg)
